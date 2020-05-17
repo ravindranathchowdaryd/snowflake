@@ -1,4 +1,4 @@
-# SnowflakeGuiHacks
+# Snowflake
 UI Prototypes for snowflake related concepts
 
 ## Wiki
